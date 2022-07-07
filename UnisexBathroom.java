@@ -3,7 +3,6 @@ package com.company;
 import java.util.concurrent.Semaphore;
 import java.util.Scanner;
 
-//HAKAN ÖZCAN -13253043
 
 class UnisexBathroom {
         static Semaphore bathroomSemaphore;
